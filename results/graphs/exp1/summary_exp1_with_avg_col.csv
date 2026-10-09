@@ -1,0 +1,8 @@
+Scheduler,Best Val Acc,Final Val Loss,Best Train Acc,Total Time (s),Val Acc vs Avg,Val Loss vs Avg,Train Acc vs Avg,Time vs Avg (s)
+constant,0.92,0.1413,0.9978,536.76,0.0167,-0.3795,-0.0006,3.53
+cosine,0.915,0.4711,0.9991,533.04,0.0117,-0.0497,0.0007,-0.19
+linear,0.905,0.1007,0.9989,532.69,0.0017,-0.4201,0.0005,-0.53
+constant_then_cosine,0.9,0.9228,0.9995,527.33,-0.0033,0.402,0.0011,-5.89
+constant_then_linear,0.89,0.7058,0.998,535.54,-0.0133,0.185,-0.0004,2.31
+linear_then_constant,0.89,0.7831,0.9972,533.99,-0.0133,0.2623,-0.0012,0.76
+Average,0.9033,0.5208,0.9984,533.22,0.0,0.0,0.0,0.0

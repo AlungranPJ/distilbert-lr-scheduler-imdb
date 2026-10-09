@@ -1,0 +1,4 @@
+LR Version,Best Val Acc,Avg Val Acc,Final Val Loss,Avg Val Loss,Best Train Acc,Avg Train Acc,Total Time (s),Avg Epoch Time (s)
+LR 1e-5,0.89,0.8748,0.5899,0.5394,0.998,0.971,570.09,28.5
+LR 2e-5,0.9,0.886,0.9228,0.7514,0.9995,0.9785,527.33,26.37
+LR 4e-5,0.91,0.893,0.0859,0.4638,0.9995,0.9827,566.22,28.31

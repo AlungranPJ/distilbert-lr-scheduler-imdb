@@ -1,0 +1,4 @@
+Warm-up Setting,Best Val Acc,Avg Val Acc,Final Val Loss,Avg Val Loss,Best Train Acc,Avg Train Acc,Total Time (s),Avg Epoch Time (s)
+Warm-up 0%,0.905,0.8828,0.71,0.7256,0.9977,0.9766,553.03,27.65
+Warm-up 10%,0.92,0.892,0.1413,0.6418,0.9978,0.9757,536.76,26.84
+Warm-up 20%,0.92,0.892,0.1413,0.6418,0.9978,0.9757,536.76,26.84

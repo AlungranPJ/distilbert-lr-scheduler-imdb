@@ -1,0 +1,5 @@
+# model checkpoints (255 MB each, 27 runs, ~6.9 GB) are not tracked
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
